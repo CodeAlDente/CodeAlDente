@@ -1,8 +1,8 @@
 ## Hello, World! 👋
 
-Hi! I'm **CodeAlDente**.
+Hi! I'm [CodeAlDente](https://github.com/CodeAlDente).
 
-This is a place for sharing useful tools, free services, and data with the community. Everything here is made available for everyone to explore and enjoy. If you find something useful, you're welcome to support the project with a [donation](#-donate).
+This is a place for sharing useful tools, free services, and data with the community. Everything here is made available for everyone to explore and enjoy. If you find something useful, you're welcome to support the project with a [donation](#donate).
 
 ## My Projects
 
@@ -16,7 +16,7 @@ Here are some of the projects I'm working on or have contributed to:
 
 If you have any questions about my projects here on GitHub, feel free to email me at 👉 [mail@codealdente.ovh](mailto:mail@codealdente.ovh).
 
-For added security, **I strongly recommend** 🔐 encrypting your email using (Open)PGP. You can find my public key on the [Mailvelope Key Server](https://keys.mailvelope.com/pks/lookup?op=get&search=mail@codealdente.ovh).
+For added security, I **strongly recommend** encrypting your email using (Open)PGP. You can find my public key on the [Mailvelope Key Server](https://keys.mailvelope.com/pks/lookup?op=get&search=mail@codealdente.ovh).
 
 ## Donate
 
@@ -26,3 +26,7 @@ Maintaining free services and sharing useful resources takes time and resources.
 - [☕ Buy Me a Coffee](https://buymeacoffee.com/CodeAlDente)
 
 Thank you for your support!
+
+---
+
+Hosted with ♥️ by [GitHub](https://docs.github.com/en/pages)
